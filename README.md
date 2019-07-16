@@ -17,6 +17,23 @@
 
 3. 二分图匹配
   - [【模板】匈牙利算法求二分图最大匹配.cpp](https://github.com/SocialZxy/Naive-Problems/blob/master/%E4%BA%8C%E5%88%86%E5%9B%BE%E5%8C%B9%E9%85%8D/%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91%E5%8C%88%E7%89%99%E5%88%A9%E7%AE%97%E6%B3%95%E6%B1%82%E4%BA%8C%E5%88%86%E5%9B%BE%E6%9C%80%E5%A4%A7%E5%8C%B9%E9%85%8D.cpp) 
-  
+
 4. 网络流
   - [【模板】EK算法求网络最大流.cpp](https://github.com/SocialZxy/Naive-Problems/blob/master/%E7%BD%91%E7%BB%9C%E6%B5%81/%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91EK%E7%AE%97%E6%B3%95%E6%B1%82%E7%BD%91%E7%BB%9C%E6%9C%80%E5%A4%A7%E6%B5%81.cpp) 
+
+5. 高精度算法
+
+- [高精度整数](https://github.com/SocialZxy/Naive-Problems/blob/master/%E9%AB%98%E7%B2%BE%E5%BA%A6/%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%95%B4%E6%95%B0/)
+
+  - [【模板】Big Integer](https://github.com/SocialZxy/Naive-Problems/blob/master/%E9%AB%98%E7%B2%BE%E5%BA%A6/%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%95%B4%E6%95%B0/%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91BigInteger.cpp)
+  - [BigInteger.h](https://github.com/SocialZxy/Naive-Problems/blob/master/%E9%AB%98%E7%B2%BE%E5%BA%A6/%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%95%B4%E6%95%B0/BigInteger.h)
+  - [BigIntegerReference.h](https://github.com/SocialZxy/Naive-Problems/blob/master/%E9%AB%98%E7%B2%BE%E5%BA%A6/%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%95%B4%E6%95%B0/BigIntegerReference.h)
+
+- [高精度浮点数](https://github.com/SocialZxy/Naive-Problems/blob/master/%E9%AB%98%E7%B2%BE%E5%BA%A6/%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%B5%AE%E7%82%B9%E6%95%B0/)
+
+  - [BigFloat.h](https://github.com/SocialZxy/Naive-Problems/blob/master/%E9%AB%98%E7%B2%BE%E5%BA%A6/%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%B5%AE%E7%82%B9%E6%95%B0/BigFloat.h)
+
+  - [BigFloatReference.h](https://github.com/SocialZxy/Naive-Problems/blob/master/%E9%AB%98%E7%B2%BE%E5%BA%A6/%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%B5%AE%E7%82%B9%E6%95%B0/BigFloatReference.h)
+
+    (注：高精度浮点数有部分错误)
+
