@@ -25,7 +25,7 @@
 
 - [高精度整数](https://github.com/SocialZxy/Naive-Problems/blob/master/%E9%AB%98%E7%B2%BE%E5%BA%A6/%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%95%B4%E6%95%B0/)
 
-  - [【模板】Big Integer](https://github.com/SocialZxy/Naive-Problems/blob/master/%E9%AB%98%E7%B2%BE%E5%BA%A6/%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%95%B4%E6%95%B0/%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91BigInteger.cpp)
+  - [【模板】BigInteger.cpp](https://github.com/SocialZxy/Naive-Problems/blob/master/%E9%AB%98%E7%B2%BE%E5%BA%A6/%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%95%B4%E6%95%B0/%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91BigInteger.cpp)
   - [BigInteger.h](https://github.com/SocialZxy/Naive-Problems/blob/master/%E9%AB%98%E7%B2%BE%E5%BA%A6/%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%95%B4%E6%95%B0/BigInteger.h)
   - [BigIntegerReference.h](https://github.com/SocialZxy/Naive-Problems/blob/master/%E9%AB%98%E7%B2%BE%E5%BA%A6/%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%95%B4%E6%95%B0/BigIntegerReference.h)
 
