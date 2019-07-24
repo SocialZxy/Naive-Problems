@@ -27,10 +27,10 @@ void insert(int u, int v)
 
 bool dfs(int u)
 {
+	if(vis[u]) return;
+	vis[u] = 1;
 	for(int i = head[u]; i; i = edge[i].nxt) {
 		int v = edge[i].v;
-		if(vis[v]) continue;
-		vis[v] = 1;
 		if(!f[v] || dfs(f[v])) {
 			f[v] = u;
 			return 1;
